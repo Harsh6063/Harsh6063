@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Arora </hl>
 
-<img align='right' src="https://whosarghya.netlify.app/content/giphy.gif" width="400">
 
-# 💫 About Me:
-🌱 I’m currently learning Machine learning and AI <br>🔭 I’m currently working on myself and my portfolio .<br>⚡ Fun fact I am a Gamer, Animal lover , loves Netflix and Chilling.
+
+# 💫 About Me: 
+<img align='right' src="https://whosarghya.netlify.app/content/giphy.gif" width="140">
+🌱 I’m currently learning Machine learning and AI <br>
+🔭 My portfolio https://harsharora.framer.website/ <br>
+⚡ Fun fact I am a Gamer, Animal lover , loves Netflix and Chilling.
+
 
 
 
