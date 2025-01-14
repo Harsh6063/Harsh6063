@@ -3,7 +3,7 @@
 
 
 # 💫 About Me: 
-<img align='right' src="https://whosarghya.netlify.app/content/giphy.gif" width="140">
+<img align='right' src="https://whosarghya.netlify.app/content/giphy.gif" width="130">
 🌱 I’m currently learning Machine learning and AI <br>
 🔭 My portfolio https://harsharora.framer.website/ <br>
 ⚡ Fun fact I am a Gamer, Animal lover , loves Netflix and Chilling.
