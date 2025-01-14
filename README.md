@@ -1,5 +1,9 @@
+<h1 align="center">Hi 👋, I'm Harsh Arora </hl>
+
 # 💫 About Me:
 🌱 I’m currently learning Machine learning and AI <br>🔭 I’m currently working on myself and my portfolio .<br>⚡ Fun fact I am a Gamer, Animal lover , loves Netflix and Chilling.
+
+<img align='right' src="https://whosarghya.netlify.app/content/giphy.gif" width="400">
 
 
 ## 🌐 Socials:
