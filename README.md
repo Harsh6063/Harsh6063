@@ -11,21 +11,21 @@ Building AI-powered products that solve real-world problems through automation, 
 
 <img align="right" src="https://whosarghya.netlify.app/content/giphy.gif" width="180"/>
 
-🎓 Computer Science Graduate from the **University of Delhi**
+🎓 Computer Science Graduate from the University of Delhi
 
-🚀 **AI Product Builder** passionate about **Generative AI, LLMs, RAG, AI Agents, Analytics, and Automation**
+🤖 Passionate about **Generative AI, LLMs, RAG, AI Agents, and Product Development**
 
-💡 I enjoy transforming ideas into intelligent products by combining **AI, data, and product thinking** to solve real-world problems.
+🚀 Building AI-powered products, automation workflows, and data-driven solutions
 
-🌱 Currently exploring **AI Agents, MCP, Multi-Agent Systems, Production AI, and Scalable AI Applications**
+💡 Interested in AI Product, Founder's Office, Product Management, and AI Engineering roles
 
-📈 Interested in **AI Product, Founder's Office, Product Management, AI Engineering, and Startup** roles
+📈 Experienced in developing AI applications, analytics dashboards, and production-ready ML systems
 
 🌐 Portfolio: **https://harsharora.framer.website**
 
-📫 Reach me: **[harsharora6063@email.com](mailto:harsharora6063@email.com)**
+📫 Reach me: **harsharora6063@email.com**
 
-⚡ **Beyond Tech:** Learning Japanese 🇯🇵 • Exploring the latest AI tools 🤖 • Gaming 🎮 • Watching TV shows & anime 📺 • Always curious about emerging technologies 🚀
+⚡ Fun Fact: I love Learning Japanese 🇯🇵 • Exploring the latest AI tools 🤖 • Gaming 🎮 • Watching TV shows & anime 📺 • Always curious about emerging technologies 🚀
 
 ---
 
