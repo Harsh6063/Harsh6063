@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Arora</h1>
-<h3 align="center">🚀 AI Product Builder | GenAI, RAG, Analytics & Automation | Computer Science Graduate</h3>
+
+<h3 align="center">
+🚀 Product Builder & Developer | AI, Product, Growth & 0-to-1 Development
+</h3>
 
 <p align="center">
-Building AI-powered products that solve real-world problems through automation, analytics, and intelligent workflows.
+Building products from idea to execution by combining technology, AI, product thinking, and growth.
 </p>
 
 ---
@@ -13,19 +16,18 @@ Building AI-powered products that solve real-world problems through automation, 
 
 🎓 Computer Science Graduate from the University of Delhi
 
-🤖 Passionate about **Generative AI, LLMs, RAG, AI Agents, and Product Development**
+🚀 Passionate about **Product Development, AI, Growth, and 0-to-1 Building**
 
-🚀 Building AI-powered products, automation workflows, and data-driven solutions
+💻 Building and developing digital products using **AI, web technologies, automation, and data**
 
-💡 Interested in AI Product, Founder's Office, Product Management, and AI Engineering roles
+🔍 Experienced in **Product Research, Market Research, User Research, Product Development, and GTM**
 
-📈 Experienced in developing AI applications, analytics dashboards, and production-ready ML systems
+💡 Interested in **Product Management, Product Development, Growth, Founder's Office, and AI Product roles**
 
-🌐 Portfolio: **https://harsharora.framer.website**
+📈 Experience working on **0-to-1 products, learning platforms, AI-powered workflows, analytics dashboards, and automation systems**
 
-📫 Reach me: **harsharora6063@email.com**
 
-⚡ Fun Fact: I love Learning Japanese 🇯🇵 • Exploring the latest AI tools 🤖 • Gaming 🎮 • Watching TV shows & anime 📺 • Always curious about emerging technologies 🚀
+⚡ Fun Fact: I love Learning Japanese 🇯🇵 • Exploring the latest tools 🤖 • Gaming 🎮 • Watching TV shows & anime 📺 • Always curious about emerging technologies 🚀
 
 ---
 
